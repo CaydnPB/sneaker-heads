@@ -1,4 +1,21 @@
-![logo](https://user-images.githubusercontent.com/44912347/202250287-a5d277c0-62fe-4180-9aa2-ed699404c771.jpg)
+<h1 align="center">Sneaker Heads</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/44912347/202250287-a5d277c0-62fe-4180-9aa2-ed699404c771.jpg" alt="Logo">
 
 # Sneaker Heads Solution
 **GOAL**: We are promoting the Air Jordan 1’s and Air Jordan 2’s. Your goal with this exercise is to take the pre-existing HTML and style it up using CSS! Take what we have provided in the repo and use your knowledge of CSS Selectors and Properties in order to transform it to the goal provided!
@@ -77,3 +94,13 @@ Utilize the following design specifications below with the properties above to a
 - Get all the images and text to be in the same row
 
 ![Rows Final Image](/Rows.png)
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
