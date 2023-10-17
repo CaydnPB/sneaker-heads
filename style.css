@@ -27,3 +27,36 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg-image {
+    position: relative;
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/004/664/790/large/nemanja-ivanovic-nike-patika-00000.jpg?1485383770);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+
+    z-index: -10;
+}
+
+.container {
+    padding: 20px;
+    color: #FFFFFF;
+    border-radius: 30px;
+    background-color: rgba(80, 80, 80, 0.5);
+    padding: 20px;
+    border-radius: 50px;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+}
