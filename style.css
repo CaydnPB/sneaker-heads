@@ -34,6 +34,7 @@ html {
     width: 100%;
     margin: 0px;
     padding: 0px;
+    font-family: 'Inter', system-ui, sans-serif, ui-sans-serif;
 }
 
 .bg-image {
@@ -45,21 +46,20 @@ html {
     height: 100vh;
     width: 100%;
     position: fixed;
-transform: scale(1.03);
-filter: blur(5px);
--webkit-filter: blur(5px);
--moz-filter: blur(5px);
--o-filter: blur(5px);
--ms-filter: blur(5px);
+    transform: scale(1.03);
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
     z-index: -10;
 }
 
 .container {
-    padding: 20px;
     color: #FFFFFF;
     border-radius: 30px;
     background-color: rgba(80, 80, 80, 0.5);
-    padding: 20px;
+    padding: 25px;
     border-radius: 50px;
     height: auto;
     position: fixed;
